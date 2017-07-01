@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_xNOiIFXyEeeBv5Zgx8nZfg" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_8D9bIFXyEeeBv5Zgx8nZfg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_8D_QUFXyEeeBv5Zgx8nZfg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_8D_QUVXyEeeBv5Zgx8nZfg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_8D_QUlXyEeeBv5Zgx8nZfg" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_8EC6sFXyEeeBv5Zgx8nZfg" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_BXCeUFXzEeeBv5Zgx8nZfg" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="turkish_airlines_checker.uml#_BWr5AFXzEeeBv5Zgx8nZfg"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_BXCeUVXzEeeBv5Zgx8nZfg"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_LOnncFXzEeeBv5Zgx8nZfg" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="turkish_airlines_checker.uml#_LOY98FXzEeeBv5Zgx8nZfg"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_LOnncVXzEeeBv5Zgx8nZfg"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_8EC6sVXyEeeBv5Zgx8nZfg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_8EC6slXyEeeBv5Zgx8nZfg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_8EC6s1XyEeeBv5Zgx8nZfg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8EC6tFXyEeeBv5Zgx8nZfg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_8EC6tVXyEeeBv5Zgx8nZfg" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_8EC6tlXyEeeBv5Zgx8nZfg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_8EC6t1XyEeeBv5Zgx8nZfg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_8EC6uFXyEeeBv5Zgx8nZfg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8EC6uVXyEeeBv5Zgx8nZfg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_8EC6ulXyEeeBv5Zgx8nZfg" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_8EC6u1XyEeeBv5Zgx8nZfg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_8EC6vFXyEeeBv5Zgx8nZfg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_8EC6vVXyEeeBv5Zgx8nZfg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8EC6vlXyEeeBv5Zgx8nZfg"/>
+      </children>
+      <element xmi:type="uml:Class" href="turkish_airlines_checker.uml#_8D37kFXyEeeBv5Zgx8nZfg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8D9bIVXyEeeBv5Zgx8nZfg" x="138" y="32" width="191" height="214"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_xNOiIVXyEeeBv5Zgx8nZfg" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_xNOiIlXyEeeBv5Zgx8nZfg"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_xNOiI1XyEeeBv5Zgx8nZfg">
+      <owner xmi:type="uml:Model" href="turkish_airlines_checker.uml#_xC6vkFXyEeeBv5Zgx8nZfg"/>
+    </styles>
+    <element xmi:type="uml:Model" href="turkish_airlines_checker.uml#_xC6vkFXyEeeBv5Zgx8nZfg"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_xQrewFXyEeeBv5Zgx8nZfg" type="PapyrusUMLSequenceDiagram" name="Sequence Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_xQrewVXyEeeBv5Zgx8nZfg" type="Interaction_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_xQrewlXyEeeBv5Zgx8nZfg" type="Interaction_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_xQrew1XyEeeBv5Zgx8nZfg" type="Interaction_SubfragmentCompartment">
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xQrexFXyEeeBv5Zgx8nZfg"/>
+      </children>
+      <element xmi:type="uml:Interaction" href="turkish_airlines_checker.uml#_xP6pwFXyEeeBv5Zgx8nZfg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xQrexVXyEeeBv5Zgx8nZfg"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_xQrexlXyEeeBv5Zgx8nZfg" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_xQrex1XyEeeBv5Zgx8nZfg"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_xQreyFXyEeeBv5Zgx8nZfg">
+      <owner xmi:type="uml:Model" href="turkish_airlines_checker.uml#_xC6vkFXyEeeBv5Zgx8nZfg"/>
+    </styles>
+    <element xmi:type="uml:Interaction" href="turkish_airlines_checker.uml#_xP6pwFXyEeeBv5Zgx8nZfg"/>
+  </notation:Diagram>
+</xmi:XMI>
