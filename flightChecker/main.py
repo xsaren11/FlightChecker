@@ -3,14 +3,14 @@ Created on 20.06.2017
 
 @author: user
 '''
-import urllib.request
+# import urllib.request
+from gmail import Gmail
+
 
 def main():
-    with urllib.request.urlopen('https://online.turkishairlines.com/internet-booking/start.tk?multi=1&lang=en') as f:
-        print(f.read())
-
-
-
+    gm = Gmail('krzysieks1526@gmail.com', 'klucze1526')
+    gm.send_message('Kotek', 'Kocham Cie!! Kiedy SEX??')
+    
 
 if __name__ == '__main__':
     main()
